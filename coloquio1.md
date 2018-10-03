@@ -156,12 +156,12 @@ Es el proceso utilizado para generar una idenficacion unica o "fingerprint" digi
 * Si un bit de la imagen es alterado, su hash sera distinto al original.
 
 #### Encoding
->  Ejemplo HOLA CLASE
->  BASE64: SE9MQSBDTEFTRQ==
->  HEXA: x48x4fx4cx41x20x43x4cx41x53x45
->  Atbahs: SLOZ XOZHV
->  ROT13: UBYN PYNFR
->  URL Encode: HOLA%20CLASE
+>  * Ejemplo HOLA CLASE
+>  * BASE64: SE9MQSBDTEFTRQ==
+>  * HEXA: x48x4fx4cx41x20x43x4cx41x53x45
+>  * Atbahs: SLOZ XOZHV
+>  * ROT13: UBYN PYNFR
+>  * URL Encode: HOLA%20CLASE
 
 #### La Cadena De Custodia
 Es uno de los protocolos de actuacion que ha se seguirse con respecto a una prueba durante su periodo de vida o e validez, desde que esta se consigue o genera, hasta que se destruye, o deja de ser necesaria. Este protocolo debe controlar donde y como se ha obtenido la prueba, que se ha hecho con ella y cuando, quien ha tenido acceso a la misma, donde se encuentra esta en todo momento y quien la tiene y, en caso de su destruccion, por la causa que sea, como se ha destruido, cuando, quien, donde y el porque.
