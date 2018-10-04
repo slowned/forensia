@@ -113,11 +113,11 @@ en la organizacion o el criterio del usuario que lo implementa.
 #### Metadatos 
 Se pueden definir a los metadatos como los "datos sobre los datos". Los metadatos permiten ayudar a la identificacion, descripcion, clasificacion y localizacion de un recurso. En
 los sistemas operativos, estos metadatos se guardan junto a los archivos.
-> mactime: fecha de creacion, acceso y modificacion de un archivo.
-> dato de gps.
-> tipo de archivo.
-> autor.
-> cuando fue creado, modificado.
+> * mactime: fecha de creacion, acceso y modificacion de un archivo.
+> * dato de gps.
+> * tipo de archivo.
+> * autor.
+> * cuando fue creado, modificado.
 
 #### Datos residuales
 Cuando un usuario borra un archivo, el SO no borra literalmente el archivo, sino que lo marca como espacio disponible.
@@ -178,13 +178,47 @@ Es uno de los protocolos de actuacion que ha se seguirse con respecto a una prue
 * Toda copia de la evidencia deber tener un formulario de "copia de evidencia".
 
 
+### Clase 3 
+### Tratamiento y resultados desde la aEvidencia Digital usando software libre
 
+### El proceso forense 
+La naturaleza de la evidencia digital es tal que esta posee desafios opara su admisiilidad en procesos legales, para hacer frente a estos desafios, hay que seguir procesos forenses adecuados. Estos procesos se componen de 4 frases 
+1. Recoleccion.
+1. Examinacion/Extraccion.
+1. Alaisis.
+1. Reportes.
 
+* **Recoleccion**: la fase de recoleccion implica la usqueda,reconocimiento, recolecion y documentacion de la evidencia digital. Esta fase puede involucrar informacion de tiempo real e informcion almacenadda que puede ser alerada o perdida si no se tiene las precauciones adecuadas.
+Cuando realiamos este proceso tenemos que tener algunas consideraciones.
+    * Asegurar el area. Ej: no permitir la entrada de terceros.
+    * Tener en cuenta normas legales y locales.
+    * Documentar, fotografiar, y asegurar la evidencia digital lo mas rapido posible.
+    * Mantener el estado de los dispositivos electronicos. Lo que esta pagado queda apagado y lo que esta prendigo queda prendido.
+    * Considerar toda la escena en la busqueda de posibles evidencias (no limitarse solo a las computadoras)
+    * Doncumentar, etiquetar y preservar toda la evidencia.
 
+* **Adquisicion de la evidencia**
+    * **Imaging**: es el proceso e rear una copia exacta de una pieza de evidencia (live CD, write Blockers, duplicadores por hardware).
 
+* **Examinacion**: es el proceso de examinacion, ayuda a hacer visible la evidencia y explica su origin y significado.
+    * Debe documentarse el contenido y estado de la evidencia.
+    * Busqueda de informacion que puede estar oculta.
+    * Una vez que toda la informacion es visible, se puede empezar a reducir los datos dejando solo los realmente valiosos y descartando repetidos o inservibles.
+    * Se suele generar copias de las imagenes para proteger la evidenia.
 
+* **Analisis**: en el proceso de analisis se investiga la evidencia encontrada en el proceso e examinacion.
 
+* **Reporte**: un informe escrito que describe el proceso e examinacion y los datos pertinentes recuperados.
+suelen aparecer dos:
+    * Uno ejecutivo o gerencial con mayor nivel de abstraccion.
+    * Uno tecnico con mucho mayor detalle a bajo nivel.
 
+####Redacción del informe
+* Las suposiciones y falta de fundamentos en pruebas dan como resultado un informe débil.
+* Por lo tanto, es importante construir argumentos sólidos, proporcionando todas las pruebas y
+demostrar que la explicación dada es la más razonable.
+* Demostrar claramente cómo y dónde se encontró toda la evidencia ayuda a interpretar el informe y
+permite que otro examinador competente verifique los resultados.
 
 
 
